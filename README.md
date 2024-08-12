@@ -1,4 +1,5 @@
 # Supply Chain Management Database
+# Taken the code from koushik2299/Supply-Chain-Managment-Database to understand and start the project
 
 This repository contains a supply chain management database that has been designed to help businesses manage their supply chain operations efficiently. The database is built using SQL and can be used with any SQL-based database management system.
 
